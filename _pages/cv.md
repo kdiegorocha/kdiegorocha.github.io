@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Forestry (Engenharia Florestal), Universidade Federal Rural de Pernambuco, 2018
+* M.S. in Forestry, Auburn University, 2020
+* Ph.D in Forest Resources and Conservation, University of Florida, 2026 (expected)
 
 Work experience
 ======
